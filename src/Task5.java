@@ -9,7 +9,7 @@ public class Task5 {
             {
                 if ((my_array[i] == my_array[j]) && (i != j))
                 {
-                    System.out.println("Duplicate value : "+my_array[j]);
+                    System.out.println("Duplicate Element : "+my_array[j]);
                 }
             }
         }
