@@ -1,3 +1,5 @@
+package Tsk_2;
+
 import java.awt.Rectangle;
 
 public class SomethingIsWrong {

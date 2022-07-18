@@ -1,3 +1,5 @@
+package Tsk_2;
+
 public class NumberHolder {
     private float aFloat;
     private int anInt;

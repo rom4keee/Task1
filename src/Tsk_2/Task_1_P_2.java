@@ -1,3 +1,5 @@
+package Tsk_2;
+
 public class Task_1_P_2 {
 
     public static void main(String[] args)
